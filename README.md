@@ -10,6 +10,4 @@ Bu proje, **Q-Learning** algoritmasını kullanarak Tic-Tac-Toe (XOX) oyunu oyna
 - Q-Learning algoritması kullanarak Tic-Tac-Toe oynayan bir yapay zeka ajanı oluşturmak.
 - Ajanın her oyun tecrübesiyle daha iyi kararlar alabilmesini sağlamak.
 
-## Kullanım
-
-Projeyi çalıştırmak için Python yüklü bir sistemde ilgili dosyaları çalıştırmanız yeterlidir. Ajan eğitildikten sonra, insan oyuncuya karşı oynayabilir.
+Ajan eğitildikten sonra insana karşı oynayabilir.

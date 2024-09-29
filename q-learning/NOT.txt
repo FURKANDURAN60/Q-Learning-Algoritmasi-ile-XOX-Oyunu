@@ -1,0 +1,2 @@
+Oyunun temel dosyalarının oluştuğu bu klasörde ajanları eğitmek ve oyunu oynamak için training.py dosyasını çalıştırmanız yeterlidir.
+İYİ EĞLENCELER  :)    .
